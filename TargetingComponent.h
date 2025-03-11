@@ -15,7 +15,7 @@ class CUBEWARS_API UTargetingComponent : public UActorComponent
     GENERATED_BODY()
 
 public:
-    URFTargetingComponent();
+    UTargetingComponent();
 
 protected:
     virtual void BeginPlay() override;
